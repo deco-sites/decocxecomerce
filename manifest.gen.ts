@@ -97,17 +97,21 @@ const manifest = {
     "deco-sites/decocxecomerce/sections/Images/ShoppableBanner.tsx": $$$$$$28,
     "deco-sites/decocxecomerce/sections/Links/LinkTree.tsx": $$$$$$29,
     "deco-sites/decocxecomerce/sections/Links/Shortcuts.tsx": $$$$$$30,
-    "deco-sites/decocxecomerce/sections/Miscellaneous/CampaignTimer.tsx": $$$$$$31,
-    "deco-sites/decocxecomerce/sections/Miscellaneous/CookieConsent.tsx": $$$$$$32,
+    "deco-sites/decocxecomerce/sections/Miscellaneous/CampaignTimer.tsx":
+      $$$$$$31,
+    "deco-sites/decocxecomerce/sections/Miscellaneous/CookieConsent.tsx":
+      $$$$$$32,
     "deco-sites/decocxecomerce/sections/Miscellaneous/Slide.tsx": $$$$$$33,
     "deco-sites/decocxecomerce/sections/Newsletter/Newsletter.tsx": $$$$$$34,
     "deco-sites/decocxecomerce/sections/Product/ImageGalleryFrontBack.tsx":
       $$$$$$35,
     "deco-sites/decocxecomerce/sections/Product/NotFound.tsx": $$$$$$36,
-    "deco-sites/decocxecomerce/sections/Product/NotFoundChallenge.tsx": $$$$$$37,
+    "deco-sites/decocxecomerce/sections/Product/NotFoundChallenge.tsx":
+      $$$$$$37,
     "deco-sites/decocxecomerce/sections/Product/ProductDetails.tsx": $$$$$$38,
     "deco-sites/decocxecomerce/sections/Product/ProductShelf.tsx": $$$$$$39,
-    "deco-sites/decocxecomerce/sections/Product/ProductShelfTabbed.tsx": $$$$$$40,
+    "deco-sites/decocxecomerce/sections/Product/ProductShelfTabbed.tsx":
+      $$$$$$40,
     "deco-sites/decocxecomerce/sections/Product/SearchResult.tsx": $$$$$$41,
     "deco-sites/decocxecomerce/sections/Product/ShelfWithImage.tsx": $$$$$$42,
     "deco-sites/decocxecomerce/sections/Product/Wishlist.tsx": $$$$$$43,
