@@ -12,7 +12,7 @@ export default async function apiquotables(
   _ctx: unknown,
 ): Promise<Quotes> {
   const quantity = prop.quantity ?? 1;
-  console.log(prop.apiKey?.get())
+  console.log(prop.apiKey?.get());
   const promises = Array.from({ length: quantity }).map(() =>
     fetch("https://api.quotable.io/random")
   );
