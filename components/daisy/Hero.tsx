@@ -23,8 +23,9 @@ export default function Hero(props: Props) {
             src={image.src}
             className="max-w-sm rounded-lg shadow-2xl"
             alt={image.alt}
-            width={1080}
-            height={1350}
+            width={500}
+            height={500}
+            border-radius={50}
           />
         )}
         <div className={image ? "" : "max-w-md"}>
